@@ -1,2 +1,2 @@
 # delphi-utilities
-Collection of Borland Delphi tools and utility functions
+Collection of Borland Delphi controls, tools and utility functions
